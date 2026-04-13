@@ -3295,7 +3295,7 @@ class previewView extends (0, _viewDefault.default) {
 }
 exports.default = previewView;
 
-},{"./View":"l0Asn","url:../../img/icons.svg":"apwnT","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"3kBPa":[function(require,module,exports,__globalThis) {
+},{"./View":"l0Asn","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","url:../../img/icons.svg":"apwnT"}],"3kBPa":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _view = require("./View");
@@ -3346,7 +3346,7 @@ class PaginationView extends (0, _viewDefault.default) {
             <button data-goto="${curPage + 1}" class="btn--inline pagination__btn--next">
                 <span>Page ${curPage + 1}</span>
                 <svg class="search__icon">
-                <use href="${0, _iconsSvgDefault.default}#icon-arrow-right" xlink:href="${0, _iconsSvgDefault.default}#icon-arrow-right"></use>
+                <use href="${0, _iconsSvgDefault.default}#icon-arrow-right" xlink:href="${0, _iconsSvgDefault.default}#icon-arrow-"></use>
                 </svg>
           </button>
             `;
@@ -3356,7 +3356,7 @@ class PaginationView extends (0, _viewDefault.default) {
 }
 exports.default = new PaginationView();
 
-},{"./View":"l0Asn","url:../../img/icons.svg":"apwnT","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"2vc5x":[function(require,module,exports,__globalThis) {
+},{"./View":"l0Asn","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","url:../../img/icons.svg":"apwnT"}],"2vc5x":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _view = require("./View");
